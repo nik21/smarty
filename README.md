@@ -1,7 +1,7 @@
 smarty
 ======
 
-Smarty Latest Stable Release (3.1.15) for composer.
+Smarty Latest Stable Release (3.1.17) for composer.
 
 To add to your composer.json:
 <pre><code>{
